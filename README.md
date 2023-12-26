@@ -38,5 +38,8 @@ We welcome contributions from the community. If you're interested in contributin
 ## License
 This project is licensed under [LICENSE NAME].
 
+## Acknowledgement
+This project is proceeding as our submission for the Presedent's Innovation Challenge by the University of Nevada - Las Vegas.
+
 ## Contact
 For any inquiries or contributions, please contact nguyed21@unlv.nevada.edu.
